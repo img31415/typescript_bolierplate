@@ -1,2 +1,2 @@
 # typescript_bolierplate
-Typescript implementation
+This is typescript implementation on React.js (or MERN Stack)
