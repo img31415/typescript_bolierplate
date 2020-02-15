@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {Text} from "./Text"
+import {TextField} from "./Text"
 
 const App: React.FC = () => {
   return <div>
-    <Text text={"haha"} person={{firstName : "melissa", lastName:"goo"}}/>
+    <TextField text={"haha"} person={{firstName : "melissa", lastName:"goo"}}/>
   </div>;
 }
 
